@@ -28,7 +28,7 @@
 .parttwo{
     height: inherit;
     width: 100%;
-    background-image: url('img/background.jpg');
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -113,7 +113,7 @@
     height: 190px;
     width: 180px;
     /* border: 1px solid black; */
-    background-image: url('img/bandmember.jpg');
+    background-image: url('bandmember.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -121,7 +121,7 @@
     height: 190px;
     width: 180px;
     /* border: 1px solid black; */
-    background-image: url('img/bandmember.jpg');
+    background-image: url('bandmember.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -129,7 +129,7 @@
     height: 190px;
     width: 180px;
     /* border: 1px solid black; */
-    background-image: url('img/bandmember.jpg');
+    background-image: url('bandmember.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -187,7 +187,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    background-image: url('img/img1.jpg');
+    background-image: url('img1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 40px;
@@ -200,7 +200,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    background-image: url('img/img2.jpg');
+    background-image: url('img2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 40px;
@@ -213,7 +213,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    background-image: url('img/img3.jpg');
+    background-image: url('img3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 40px;
@@ -283,7 +283,7 @@
     height: 800px;
     width: 100%;
     border: 1px solid black;
-    background-image: url('img/map.jpg');
+    background-image: url('map.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
